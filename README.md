@@ -1,68 +1,86 @@
 <h1 align="center">Hola, soy Víctor 👋</h1>
-<h3 align="center">Desarrollador | Linux | VPS | Pterodactyl | Minecraft & FiveM</h3>
+
+<h3 align="center">Developer | Linux | Cloud | Infrastructure | Game Servers</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=900&lines=Analista+Programador+en+DUOC+UC;Desarrollador+con+experiencia+en+Linux+%26+Cloud;Pterodactyl%2C+VPS%2C+redes+y+servidores+de+juego;Minecraft%2C+FiveM+y+soluciones+web;Siempre+aprendiendo+y+creando+nuevos+proyectos"
-      alt="Typing SVG"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=900&lines=Analista+Programador+en+DUOC+UC;Linux+%26+Cloud+Enthusiast;Infrastructure+%26+Game+Server+Developer;Java+Python+Lua+JavaScript+Developer;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🎓 Estudio **Analista Programador**
-- 💻 Llevo varios años aprendiendo **programación y computación de forma autodidacta**
-- 🛠️ Trabajo con **Linux, VPS, paneles, redes y despliegue de servidores**
-- ☁️ Tengo conocimientos en **cloud, configuración de servidores y administración**
-- 🎮 Me enfoco también en proyectos de **Minecraft, FiveM, hosting y servidores de juego**
-- 🌐 He trabajado en soluciones relacionadas con **web, hosting y servicios online**
+- 🎓 Estudiante de **Analista Programador Full stack**
+- 💻 Más de **5 años aprendiendo programación y computación de forma autodidacta**
+- 🛠️ Experiencia trabajando con **Linux, VPS, redes y despliegue de servidores**
+- ☁️ Conocimientos en **cloud infrastructure y administración de sistemas**
+- 🎮 Experiencia en **Minecraft, FiveM, hosting y servidores de juego**
+- 🌐 Experiencia en **web hosting y soluciones online**
+- ⚙️ Interesado en **DevOps, Infrastructure y System Administration**
 
 ---
 
 ## 🧰 Tecnologías y herramientas
 
-### Lenguajes
+### 💻 Lenguajes
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,bash" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,lua,bash" />
 </p>
 
-### Herramientas y plataformas
+### ⚙️ Infraestructura y sistemas
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,cloudflare,nginx,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,cloudflare,git,github,vscode" />
 </p>
 
-### Lo que manejo
-- Linux
-- VPS
-- Pterodactyl Panel
-- Wings
-- Redes
-- Hosting web
-- Servidores de juego
-- Cloud avanzado
+---
+
+## ⚡ Especialidades
+
+- Linux Server Administration
+- VPS Deployment & Management
+- Pterodactyl Panel & Wings installation
+- Game Server Infrastructure
+- Networking fundamentals
+- Web hosting environments
+- Cloud infrastructure basics
+- Troubleshooting systems
+- Automation with scripts
+- Backend basics
+
+---
+
+## 🎮 Proyectos e intereses
+
+### Game Infrastructure
+- Minecraft servers deployment
+- FiveM server infrastructure
+- VPS hosting environments
+- Performance optimization
+
+### Systems
+- Linux environments
+- Server automation
+- Network configurations
+- Panel installations
 
 ---
 
 ## 📌 Actualmente
 
-- 🔭 Trabajando en proyectos relacionados con **hosting, VPS, páginas web y servidores de juego**
-- 🌱 Mejorando cada día en **desarrollo, infraestructura y automatización**
-- 🎯 Interesado en seguir creciendo como **desarrollador y administrador de sistemas**
+- 🔭 Trabajando en proyectos de **hosting, VPS y servidores de juego**
+- 🌱 Aprendiendo más sobre **Cloud, DevOps y automatización**
+- 🎯 Buscando crecer como **Infrastructure Developer / SysAdmin**
 
 ---
 
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SrChelios&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrChelios&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,12 +89,12 @@
 
 <p>
   <a href="mailto:victoraguirrecl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contactar-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Gracias por visitar mi perfil 🚀
+⚡ Siempre aprendiendo nuevas tecnologías ⚡
 </p>
