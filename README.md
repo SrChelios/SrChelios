@@ -3,7 +3,7 @@
 <h3 align="center">Developer | Linux | Cloud | Infrastructure | Backend & Frontend | Game Servers</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1500&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Analista+Programador+en+DUOC+UC;Linux+%26+Cloud+Enthusiast;Backend+%26+Frontend+Developer;Infrastructure+%26+Game+Server+Developer;Siempre+aprendiendo+nuevas+tecnologias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1500&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Analista+Programador+Full+stack;Linux+%26+Cloud+Enthusiast;Backend+%26+Frontend+Developer;Infrastructure+%26+Game+Server+Developer;Siempre+aprendiendo+nuevas+tecnologias" alt="Typing SVG" />
 </p>
 
 ---
